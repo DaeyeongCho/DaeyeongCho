@@ -4,7 +4,7 @@
 
 ### Cloud Native · Microservices · LLM/RAG · Multi-Cloud
 
-AI를 활용한 컨테이너 기반 마이크로서비스와   
+AI를 활용한 컨테이너 기반 마이크로서비스 지원 기술과   
 멀티 클라우드 지원 기술을 연구·개발해 왔습니다.
 
 [![GitHub](https://img.shields.io/badge/GitHub-DaeyeongCho-181717?style=flat-square&logo=github)](https://github.com/DaeyeongCho)
