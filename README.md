@@ -4,10 +4,11 @@
 
 ### Cloud Native · Microservices · LLM/RAG · Multi-Cloud
 
-AI를 활용한 컨테이너 기반 마이크로서비스 지원 기술과   
+AI를 활용한 컨테이너 기반 마이크로서비스 지원 기술과  
 멀티 클라우드 지원 기술을 연구·개발해 왔습니다.
 
 [![GitHub](https://img.shields.io/badge/GitHub-DaeyeongCho-181717?style=flat-square&logo=github)](https://github.com/DaeyeongCho)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--3903--5723-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-3903-5723)
 [![Naver](https://img.shields.io/badge/Email-jdy5989%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:jdy5989@naver.com)
 
 </div>
@@ -212,6 +213,7 @@ AWS, Google Cloud, Microsoft Azure 등이 결합된 멀티 클라우드 환경�
 ## 📫 Contact
 
 - GitHub: [github.com/DaeyeongCho](https://github.com/DaeyeongCho)
+- ORCID: [0009-0005-3903-5723](https://orcid.org/0009-0005-3903-5723)
 - Mail: [jdy5989@naver.com](mailto:jdy5989@naver.com)
 
 ---
