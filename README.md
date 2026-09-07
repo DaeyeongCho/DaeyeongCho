@@ -206,7 +206,7 @@ AWS, Google Cloud, Microsoft Azure 등이 결합된 멀티 클라우드 환경�
 - Cloud Monitoring & Observability
 
 ### 동국대학교 WISE캠퍼스
-**ICT·빅데이터학부 컴퓨터공학전공 · 학사**  
+**ICT·빅데이터학부 컴퓨터공학전공 · 공학사**  
 2022.03 – 2024.02
 
 ---
