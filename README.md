@@ -5,14 +5,14 @@
 Python과 LLM/RAG를 활용한 소프트웨어 개발, Kubernetes 기반 마이크로서비스, 멀티 클라우드 인프라를 다룹니다.  
 컨테이너 운영 정보와 서비스 간 통신 흐름을 분석하고, AI를 활용한 배포·오류 지원 기술을 연구·개발했습니다.
 
-**Currently:** Python/AI Developer · R&D Researcher @ SmartBank  
+**Currently:** Python/AI Developer · R&D Researcher @ Smartbank  
 **Background:** 부산대학교 컴퓨터공학전공 공학석사 · 소프트웨어공학 연구실(SELab) 연구원
 
 [GitHub](https://github.com/DaeyeongCho) · [Portfolio](https://daeyeongcho.github.io/) · [ORCID](https://orcid.org/0009-0005-3903-5723) · [Email](mailto:jdy5989@naver.com)
 
 ## Experience
 
-### SmartBank / 스마트뱅크
+### Smartbank / 스마트뱅크
 **R&D본부 · 연구원** | Sep 2026 – Present
 
 - 참여 영역: 에이젠틱 AI 기반 도면관리 서비스 플랫폼 개발
