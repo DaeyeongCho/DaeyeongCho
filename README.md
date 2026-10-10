@@ -8,7 +8,7 @@ Python과 LLM/RAG를 활용한 소프트웨어 개발, Kubernetes 기반 마이�
 **Currently:** Python/AI Developer · R&D Researcher @ Smartbank  
 **Background:** 부산대학교 컴퓨터공학전공 공학석사 · 소프트웨어공학 연구실(SELab) 연구원
 
-[GitHub](https://github.com/DaeyeongCho) · [Portfolio](https://daeyeongcho.github.io/) · [ORCID](https://orcid.org/0009-0005-3903-5723) · [Email](mailto:jdy5989@naver.com)
+[GitHub](https://github.com/DaeyeongCho) · [ORCID](https://orcid.org/0009-0005-3903-5723) · [Email](mailto:jdy5989@naver.com)
 
 ## Experience
 
@@ -163,6 +163,5 @@ Mar 2022 – Feb 2024 · **GPA 4.23 / 4.5**
 ## Contact & Links
 
 - Email: [jdy5989@naver.com](mailto:jdy5989@naver.com)
-- Portfolio: [daeyeongcho.github.io](https://daeyeongcho.github.io/)
 - GitHub: [github.com/DaeyeongCho](https://github.com/DaeyeongCho)
 - ORCID: [0009-0005-3903-5723](https://orcid.org/0009-0005-3903-5723)
