@@ -15,8 +15,11 @@
 ### Smartbank / 스마트뱅크
 **R&D본부 · 연구원** | Sep 2026 – Present
 
-- 에이젠틱 AI 기반 도면관리 서비스 플랫폼 개발 과제 참여
-- Python 기반 백엔드·API 개발 및 AI 기술 적용·검증
+- 에이젠틱 AI 기반 도면관리 서비스 플랫폼 개발 과제 참여(Sep 2026 - Nov 2026)
+  - 유사 도면 검색을 위한 AI 모델 학습 및 FastAPI(Python) 기반 검색 기능 구현
+  - 제3자 시험인증을 위한 시험도구 개발, 평가 데이터 준비, 시험평가 수행
+  - 단위·통합 테스트케이스 설계 및 실행
+  - 도면관리플랫폼 사용자 매뉴얼 작성
 
 ### Pusan National University · Software Engineering Lab(SELab)
 **연구원** | Jan 2024 – Feb 2026
